@@ -1,0 +1,2 @@
+use movie
+db.dropDatabase()
